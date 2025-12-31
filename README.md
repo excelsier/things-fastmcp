@@ -80,7 +80,7 @@ Restart your terminal afterwards.
 
 #### Step 2: Clone this repository
 ```bash
-git clone https://github.com/hald/things-mcp
+git clone https://github.com/excelsier/things-fastmcp
 cd things-mcp
 ```
 
@@ -311,7 +311,7 @@ This project provides two different implementation approaches:
 
 ```bash
 # Clone the repository
-git clone https://github.com/hald/things-mcp
+git clone https://github.com/excelsier/things-fastmcp
 cd things-mcp
 
 # Set up a virtual environment with development dependencies
