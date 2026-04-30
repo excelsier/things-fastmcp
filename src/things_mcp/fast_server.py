@@ -31,9 +31,8 @@ logger = get_logger(__name__)
 
 # Create the FastMCP server
 mcp = FastMCP(
-    "Things", 
-    description="Interact with the Things task management app",
-    version="0.1.1"
+    "Things",
+    instructions="Interact with the Things task management app",
 )
 
 # LIST VIEWS
