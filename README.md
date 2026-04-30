@@ -32,39 +32,9 @@ This MCP server unlocks the power of AI for your task management:
 - Detailed item information including checklists
 - Support for nested data (projects within areas, todos within projects)
 
-## Installation Options
+## Installation
 
-There are multiple ways to install and use the Things MCP server:
-
-### Option 1: Install from PyPI (Recommended)
-
-#### Prerequisites
-* Python 3.12+
-* Claude Desktop
-* Things 3 ("Enable Things URLs" must be turned on in Settings -> General)
-* Things Authentication Token (required for URL scheme operations)
-
-#### Installation
-
-```bash
-pip install things-mcp
-```
-
-Or using uv (recommended):
-
-```bash
-uv pip install things-mcp
-```
-
-#### Running
-
-After installation, you can run the server directly:
-
-```bash
-things-mcp
-```
-
-### Option 2: Manual Installation
+### Manual Installation
 
 #### Prerequisites
 * Python 3.12+
